@@ -1,0 +1,2 @@
+/matias stuff/Unity projects/Projekt4/SmartRobotBehaviorTree/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+/matias stuff/Unity projects/Projekt4/SmartRobotBehaviorTree/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache

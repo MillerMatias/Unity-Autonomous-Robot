@@ -1,0 +1,359 @@
+fileFormatVersion: 2
+guid: 48963722915c5ea47b4d9f211e8d4c3e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ' ed arto i'
+    100002: //RootNode
+    100004: arto inf s
+    100006: Cilindro05
+    100008: Cilindro07
+    100010: ED  giuntu
+    100012: ED ammort0
+    100014: ED ammort1
+    100016: ED ammort2
+    100018: ED ammorti
+    100020: ED arto s0
+    100022: ED arto su
+    100024: ED bacino
+    100026: ED bracci0
+    100028: ED braccio
+    100030: ED giuntur
+    100032: ED piede 0
+    100034: ED piede 1
+    100036: ED piede 2
+    100038: ED piede 3
+    100040: ED piede 4
+    100042: ED piede 5
+    100044: ED piede d
+    100046: ED piede s
+    100048: ED testa
+    100050: ED testa0
+    100052: ED--arto i
+    100054: ED-arto in
+    100056: fili03
+    100058: fili04
+    100060: Gruppo01
+    100062: Gruppo02
+    100064: Gruppo03
+    100066: Gruppo04
+    100068: Gruppo05
+    100070: Gruppo06
+    100072: Loft05
+    100074: Loft06
+    100076: Loft07
+    100078: Loft08
+    100080: Oggetto02
+    100082: Parallele0
+    100084: Parallele1
+    100086: Parallele2
+    100088: Parallele3
+    100090: Parallele4
+    100092: Parallelep
+    100094: Piano02
+    100096: Piano03
+    100098: Piano05
+    100100: Piano06
+    100102: Piano07
+    100104: Piano09
+    100106: sistema di
+    100108: Testo01
+    100110: Tubo01
+    100112: Tubo02
+    400000: ' ed arto i'
+    400002: //RootNode
+    400004: arto inf s
+    400006: Cilindro05
+    400008: Cilindro07
+    400010: ED  giuntu
+    400012: ED ammort0
+    400014: ED ammort1
+    400016: ED ammort2
+    400018: ED ammorti
+    400020: ED arto s0
+    400022: ED arto su
+    400024: ED bacino
+    400026: ED bracci0
+    400028: ED braccio
+    400030: ED giuntur
+    400032: ED piede 0
+    400034: ED piede 1
+    400036: ED piede 2
+    400038: ED piede 3
+    400040: ED piede 4
+    400042: ED piede 5
+    400044: ED piede d
+    400046: ED piede s
+    400048: ED testa
+    400050: ED testa0
+    400052: ED--arto i
+    400054: ED-arto in
+    400056: fili03
+    400058: fili04
+    400060: Gruppo01
+    400062: Gruppo02
+    400064: Gruppo03
+    400066: Gruppo04
+    400068: Gruppo05
+    400070: Gruppo06
+    400072: Loft05
+    400074: Loft06
+    400076: Loft07
+    400078: Loft08
+    400080: Oggetto02
+    400082: Parallele0
+    400084: Parallele1
+    400086: Parallele2
+    400088: Parallele3
+    400090: Parallele4
+    400092: Parallelep
+    400094: Piano02
+    400096: Piano03
+    400098: Piano05
+    400100: Piano06
+    400102: Piano07
+    400104: Piano09
+    400106: sistema di
+    400108: Testo01
+    400110: Tubo01
+    400112: Tubo02
+    2100000: BLACK MATTE
+    2100002: 'Materiale #219'
+    2100004: Default
+    2100006: 'Materiale #230'
+    2100008: 'Materiale #209'
+    2100010: 'Materiale #223'
+    2100012: 'Materiale #224'
+    2100014: 'Materiale #214'
+    2100016: 'Materiale #226'
+    2100018: Reflection_Lake_
+    2100020: 'Materiale #374'
+    2100022: rocchetto
+    2100024: 'Materiale #225'
+    2100026: 15 - Default
+    2100028: caution
+    2100030: 'Materiale #210'
+    2100032: BLACK MATTE1
+    2100034: 02 - Default
+    2100036: Concrete_Asphalt
+    2100038: cromatura
+    2100040: 'Materiale #227'
+    2100042: Default1
+    2100044: 'Materiale #217'
+    2100046: BLACK MATTE2
+    2100048: 16 - Default
+    2300000: Cilindro05
+    2300002: Cilindro07
+    2300004: ED  giuntu
+    2300006: ED ammort0
+    2300008: ED ammort1
+    2300010: ED ammort2
+    2300012: ED ammorti
+    2300014: ED arto s0
+    2300016: ED arto su
+    2300018: ED bacino
+    2300020: ED bracci0
+    2300022: ED braccio
+    2300024: ED giuntur
+    2300026: ED piede 0
+    2300028: ED piede 1
+    2300030: ED piede 2
+    2300032: ED piede 3
+    2300034: ED piede 4
+    2300036: ED piede 5
+    2300038: ED piede d
+    2300040: ED piede s
+    2300042: ED testa0
+    2300044: ED--arto i
+    2300046: ED-arto in
+    2300048: Loft05
+    2300050: Loft06
+    2300052: Loft07
+    2300054: Loft08
+    2300056: Oggetto02
+    2300058: Parallele0
+    2300060: Parallele1
+    2300062: Parallele2
+    2300064: Parallele3
+    2300066: Parallele4
+    2300068: Parallelep
+    2300070: Piano02
+    2300072: Piano03
+    2300074: Piano05
+    2300076: Piano06
+    2300078: Piano07
+    2300080: Piano09
+    2300082: Testo01
+    2300084: Tubo01
+    2300086: Tubo02
+    3300000: Cilindro05
+    3300002: Cilindro07
+    3300004: ED  giuntu
+    3300006: ED ammort0
+    3300008: ED ammort1
+    3300010: ED ammort2
+    3300012: ED ammorti
+    3300014: ED arto s0
+    3300016: ED arto su
+    3300018: ED bacino
+    3300020: ED bracci0
+    3300022: ED braccio
+    3300024: ED giuntur
+    3300026: ED piede 0
+    3300028: ED piede 1
+    3300030: ED piede 2
+    3300032: ED piede 3
+    3300034: ED piede 4
+    3300036: ED piede 5
+    3300038: ED piede d
+    3300040: ED piede s
+    3300042: ED testa0
+    3300044: ED--arto i
+    3300046: ED-arto in
+    3300048: Loft05
+    3300050: Loft06
+    3300052: Loft07
+    3300054: Loft08
+    3300056: Oggetto02
+    3300058: Parallele0
+    3300060: Parallele1
+    3300062: Parallele2
+    3300064: Parallele3
+    3300066: Parallele4
+    3300068: Parallelep
+    3300070: Piano02
+    3300072: Piano03
+    3300074: Piano05
+    3300076: Piano06
+    3300078: Piano07
+    3300080: Piano09
+    3300082: Testo01
+    3300084: Tubo01
+    3300086: Tubo02
+    4300000: ED bacino
+    4300002: ED testa0
+    4300004: ED braccio
+    4300006: Parallele2
+    4300008: Tubo02
+    4300010: Cilindro07
+    4300012: Parallele1
+    4300014: Piano07
+    4300016: Piano05
+    4300018: Loft07
+    4300020: Loft08
+    4300022: Parallelep
+    4300024: ED bracci0
+    4300026: Parallele0
+    4300028: Loft05
+    4300030: Loft06
+    4300032: Parallele3
+    4300034: Tubo01
+    4300036: Cilindro05
+    4300038: Parallele4
+    4300040: Piano06
+    4300042: Piano03
+    4300044: Piano02
+    4300046: Oggetto02
+    4300048: ED giuntur
+    4300050: ED ammorti
+    4300052: ED ammort0
+    4300054: ED arto su
+    4300056: ED--arto i
+    4300058: ED piede d
+    4300060: ED piede 0
+    4300062: ED piede 1
+    4300064: ED piede 2
+    4300066: Piano09
+    4300068: ED  giuntu
+    4300070: ED ammort1
+    4300072: ED ammort2
+    4300074: ED arto s0
+    4300076: ED-arto in
+    4300078: ED piede s
+    4300080: ED piede 3
+    4300082: ED piede 4
+    4300084: ED piede 5
+    4300086: Testo01
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

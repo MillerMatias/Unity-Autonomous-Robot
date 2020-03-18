@@ -1,0 +1,52 @@
+tree("Root")
+	fallback
+     tree "Battery"
+     tree "Flee"
+		tree "Attack"
+		tree "Patrol"
+        
+        
+
+tree("Attack")
+	while IsVisible
+		sequence
+			SetTarget
+			LookAtTarget
+			Fire
+			Wait(10)
+         
+
+tree("Patrol")	
+	while not IsVisible
+		sequence
+			PickRandomDest
+			MoveToDest
+            
+            
+tree("Flee")
+    while LowHealth
+        sequence
+            SetFleePosition
+            MoveFast
+            
+tree("Battery")
+    while LowBattery
+        sequence
+            FindBatteryStation
+            MoveToBatteryStation
+         
+            
+
+        
+        
+        
+        
+        
+        
+ 
+            
+         
+           
+            
+    
+ 

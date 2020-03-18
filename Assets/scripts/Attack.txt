@@ -1,0 +1,7 @@
+tree("Root")
+	sequence
+		SetTarget
+		LookAtTarget
+		Fire
+		Wait(10)
+		
